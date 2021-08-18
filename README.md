@@ -1,8 +1,11 @@
-### Hi there! I'm Anne Bortoli 👋
+### Hi there!👋
 
+## I'm Anne Bortoli 🌼
+
+- 🏖️ I live in 🇧🇷, more precisely in Recife/PE 😎 
 - 🌱 I’m currently learning JavaScript, NodeJs, HTML5, CSS3, React
 - 📫 How to reach me: annebortoli@gmail.com
-- 😄 Pronouns: she/hers
+- 😄 Pronouns: she/hers 
 
  <div>
   <a href="https://github.com/ANNEBORTOLI">
@@ -25,7 +28,7 @@
   <a href="https://www.linkedin.com/in/anne-bortoli-65a823217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:annebortoli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/annebortoli/annebortoli/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ANNEBORTOLI/ANNEBORTOLI/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
