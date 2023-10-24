@@ -3,7 +3,7 @@
 ## I'm Anne Bortoli 🌼
 
 - 🏖️ I live in 🇧🇷, more precisely in Rio de Janeiro/RJ 😎 
-- 🌱 I’m currently learning JavaScript, NodeJs, HTML5, CSS3, React
+- 🌱 I’m currently learning Ruby on Rails, Python, JavaScript, NodeJs, HTML5, CSS3, React
 - 📫 How to reach me: annebortoli@gmail.com
 - 😄 Pronouns: she/hers 
 
